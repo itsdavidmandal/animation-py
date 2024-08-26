@@ -14,7 +14,7 @@ This Python script creates a drawing of Radha-Krishna
 
 ## Image
 Here is the visual representation of the drawing:
-![Radha Krishna Drawing](images/Screenshot 2024-08-27 010453.png)
+![Radha Krishna Drawing](images/Radha-krishna.png)
 
 ## Notes
 Feel free to customize the colors and details as per your preference. <br>
