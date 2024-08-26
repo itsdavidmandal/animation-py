@@ -12,6 +12,6 @@ This Python script creates a drawing of Radha-Krishna
 3. Enjoy the beautiful drawing of Lord Krishna and the festive peacock!
 
 ## Notes
-Feel free to customize the colors and details as per your preference. 
-Original source code link : https://drive.google.com/file/d/1jWjZXFDvjxzUSjP3zwzqYhRLu57zOeyp/view
+Feel free to customize the colors and details as per your preference. <br>
+Original source code link : https://drive.google.com/file/d/1jWjZXFDvjxzUSjP3zwzqYhRLu57zOeyp/view <br>
 Happy Krishna Janmashtami!
